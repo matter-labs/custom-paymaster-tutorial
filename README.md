@@ -2,13 +2,13 @@
 
 Welcome aboard to the custom paymaster journey with zkSync! 🚀🌌
 
-This repository is crafted to guide you through the process of building a custom paymaster on zkSync Era. Coupled with this, you'll find a practical, easy-to-follow guide to implement and understand every step [here](https://era.zksync.io/docs/dev/tutorials/custom-paymaster-tutorial.html).
+This repository is crafted to guide you through the process of building a custom paymaster on zkSync Era. Coupled with this, you'll find a practical, easy-to-follow guide to implement and understand every step [here](https://code.zksync.io/tutorials/erc20-paymaster).
 
 ## Need Assistance? 💡
 
 If you're stumbling upon any issues or uncertainties:
 
-- 📖 Explore the [custom paymaster tutorial](https://era.zksync.io/docs/dev/tutorials/custom-paymaster-tutorial.html) for a comprehensive walkthrough of the code in this repository.
+- 📖 Explore the [custom paymaster tutorial](https://code.zksync.io/tutorials/erc20-paymaster) for a comprehensive walkthrough of the code in this repository.
 - 🗣️ Or simply [reach out on Discord](https://join.zksync.dev/). We're always here to help!
 
 ## Repository Overview 📂
